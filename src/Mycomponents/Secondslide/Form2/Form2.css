@@ -1,0 +1,27 @@
+.Form2{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.Labelname2{
+    font-family: Newfont;
+    font-weight:100;
+}
+.Name2{
+    width: 380px;
+    border: 2px solid #00000057;;
+    border-radius: 4px;
+    height: 40px;
+}
+.url{
+    width: 380px;
+    border: 2px solid #00000057;
+    border-radius: 4px;
+    height: 40px;
+}
+.optional{
+    color: #00000057;
+}
+@font-face{
+    font-family: Newfont;
+    src: url(/src/Mycomponents/Inter-Medium.otf);
+  }

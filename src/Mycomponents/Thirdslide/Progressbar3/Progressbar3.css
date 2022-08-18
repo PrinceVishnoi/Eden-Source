@@ -1,0 +1,66 @@
+@font-face{
+    font-family: Newfont;
+    src: url(/src/Mycomponents/Inter-Medium.otf);
+    }
+  .progressbar{
+    list-style-type: none;
+    display: flex;
+    }
+    .Thirdlist{
+    margin-top: 40px;
+    margin-left: 38%;
+    }
+    .Thirdlist1{
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+      border:2px solid #00000057;
+      background-color: rgb(102, 77, 229);
+      color: white;
+      
+    }
+    .Thirdlist2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border:2px solid #00000057;
+    background-color: rgb(102, 77, 229);
+    color: white;
+    
+    }
+    .Thirdlist3{
+      height: 30px;
+      width: 30px;
+      border-radius: 50%;
+      border:2px solid #00000057;
+      background-color: rgb(102, 77, 229);
+      color: white;
+    }
+    
+    .Thirdlist4{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border:2px solid #00000057;
+    color: black;
+    
+    }
+    .ThirdLine1{
+      margin-top: 15px;
+      border-top: 2px solid rgb(102, 77, 229);
+      width: 70px;
+    }
+    .ThirdLine2{
+      margin-top: 15px;
+      border-top: 2px solid rgb(102, 77, 229);
+      width: 70px;
+    }
+    
+    .ThirdLine3{
+      margin-top: 15px;
+      border-top: 2px solid rgb(102, 77, 229);
+      width: 70px;
+    }
+    .Numbers{
+    margin-left: 9px;
+    }

@@ -1,0 +1,64 @@
+@font-face{
+font-family: Newfont;
+src: url(../Inter-Medium.otf);
+}
+  .progressbar{
+list-style-type: none;
+display: flex;
+}
+.list{
+margin-top: 40px;
+margin-left: 38%;
+}
+.Firstlist1{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border:2px solid #00000057;
+  background-color: rgb(102, 77, 229);
+  color: white;
+  
+}
+.Firstlist2{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+border:2px solid #00000057;
+color: black;
+
+}
+.Firstlist3{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border:2px solid #00000057;
+  color: black;
+}
+
+.Firstlist4{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+border:2px solid #00000057;
+color: black;
+
+}
+.FirstLine1{
+  margin-top: 15px;
+  border-top: 2px solid #00000057;
+  width: 70px;
+}
+.FirstLine2{
+  margin-top: 15px;
+  border-top: 2px solid #00000057;
+  width: 70px;
+}
+
+.FirstLine3{
+  margin-top: 15px;
+  border-top: 2px solid #00000057;
+  width: 70px;
+}
+.Numbers{
+margin-left: 8px;
+}

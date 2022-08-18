@@ -1,0 +1,12 @@
+.FinalButton{
+    width: 380px;
+    height: 40px;
+    margin-left: 600px;
+    border: 2px;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(102, 77, 229);
+    color: white;
+    font-family: Newfont;
+}

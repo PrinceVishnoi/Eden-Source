@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Eden{
+  margin-top: 10px;
+}
+.logo{
+  margin-left: -20px;
+  display: inline-block;
+  margin-top: 80px;
+}
+.Edentext{
+  margin-top: -37px;
+  margin-left: 20px;
+  font-family: Newfont;
+}
+@font-face{
+  font-family: Newfont;
+  src: url(../Inter-Medium.otf);
+}
